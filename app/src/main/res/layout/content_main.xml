@@ -41,7 +41,7 @@
             android:hint="Ingrese un numero"
             android:inputType="numberDecimal"
             android:textAlignment="center"
-            android:textColor="#00000000"
+            android:textColor="#EE000000"
             android:textColorHint="#CCC3C3"
             android:textSize="20sp" />
     </LinearLayout>
@@ -134,7 +134,7 @@
 
         <Button
             android:id="@+id/btnReset"
-            android:layout_width="150dp"
+            android:layout_width="176dp"
             android:layout_height="wrap_content"
             android:onClick="restear"
             android:text="Resetear"
