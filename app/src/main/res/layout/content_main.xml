@@ -136,7 +136,7 @@
             android:id="@+id/btnReset"
             android:layout_width="176dp"
             android:layout_height="wrap_content"
-            android:onClick="restear"
+            android:onClick="resetear"
             android:text="Resetear"
             android:textSize="20sp"
             android:textStyle="bold" />
